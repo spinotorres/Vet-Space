@@ -13,6 +13,11 @@ O VetSpace é um projeto que visa não só facilitar o gerenciamento de clínica
 ## A utilização do projeto:
 A utilização do projeto base sera disponibilizada de forma gratuita para todos os profissionais da área, porem certas funcionalidades só serão liberadas a partir de assinaturas mensais, contará diversos pacotes que se adequarão a diferentes necessidades profissionais.
 
+## Tecnologias
+* React.JS
+* Node.JS
+* MongoDB
+
 ## Autores do projeto:
 * Pedro Spinola Torres
 * Wilton Santana Torres
